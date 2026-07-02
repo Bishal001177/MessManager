@@ -1,0 +1,9 @@
+{
+  "name": "mess-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "মেস হিসাব ম্যানেজার — static frontend + Vercel serverless API",
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
+}
